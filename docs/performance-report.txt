@@ -1,0 +1,20 @@
+============================================================
+  YOLOv9 Çelik Yüzey Hatası Tespit - Performans Raporu
+============================================================
+
+GENEL METRİKLER:
+  mAP@0.5: 0.7023
+  mAP@0.5:0.95: 0.3665
+  Precision (Ortalama): 0.6609
+  Recall (Ortalama): 0.6629
+  F1-Score: 0.6619
+
+SINIF BAZLI METRİKLER:
+  Sınıf               Precision     Recall    mAP@0.5
+  ------------------------------------------------
+  Çatlama                0.6745     0.3765     0.5033
+  Kapanma                0.7150     0.7736     0.8361
+  Yamalar                0.7407     0.8912     0.8991
+  Çukurlu Yüzey          0.8473     0.6897     0.7970
+  Hadde Tufali           0.4709     0.3788     0.3951
+  Çizikler               0.5168     0.8678     0.7833
